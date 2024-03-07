@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 # Projects
 
 ## September 2022 - Present:
@@ -27,7 +28,7 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
   | Enterprise Architect.
   - Produced documentation for a mobile bank project using Business Domain Model,\
     Business Process, Deployment, UML, and Use Case diagrams.
-
+-->
 
 # Social
 
@@ -36,7 +37,6 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 [![LinkedIn](images/social/linkedin.png)](https://www.linkedin.com/in/aleksandrkross/)
 
 # Skills
-
 ![Java](images/skills/java.png)
 ![JavaScript](images/skills/js-black.png)
 ![React](images/skills/react.png)
@@ -48,14 +48,16 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 ![Linux](images/os/linux.png)
 
 # Languages
+![Czech:](images/languages/cz.png) &nbsp; ![Czech proficiency](images/level/b2.png)\
+![English](images/languages/uk.png) &nbsp; ![English proficiency](images/level/b2.png)\
+![Russian](images/languages/ru.png) &nbsp; ![Russian proficiency](images/level/c2.png)\
+![German](images/languages/de.png) &nbsp; ![German proficiency](images/level/a2.png)
 
-- Czech ![Intermediate level](images/middle.png)
-- English ![Intermediate level](images/middle.png)
-- Russian ![Native level](images/native.png)
+
 
 # CV
-
 [![CV](images/made_with/m_vscode.png)](https://mathewtroy.github.io/react_cv/) [![React](images/skills/react.png)](https://mathewtroy.github.io/react_cv/)
+
 
 <!--
 **mathewtroy/mathewtroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
