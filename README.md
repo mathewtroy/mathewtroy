@@ -28,22 +28,12 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
   - Produced documentation for a mobile bank project using Business Domain Model,\
     Business Process, Deployment, UML, and Use Case diagrams.
 
-# Education
 
-## Bachelor's Degree, Czech Technical University, Prague
-  ### September 2021 - Present
-  - Faculty of Electrical Engineering.
-  - Specialization: Software Engineering and Technology.
-
-## Czech Language Course, Charles University, Prague
- ### September 2020 - June 2021
-  - Passed a B2 CEFR Czech language exam with a score of 83%.
-
-# Links
+# Social
 
 [![GitHub](images/social/github.png)](https://github.com/mathewtroy/)
-[![GitHub](images/social/gitlab.png)](https://gitlab.fel.cvut.cz/krossale/)
-[![GitHub](images/social/linkedin.png)](https://www.linkedin.com/in/aleksandrkross/)
+[![GitLab](images/social/gitlab.png)](https://gitlab.fel.cvut.cz/krossale/)
+[![LinkedIn](images/social/linkedin.png)](https://www.linkedin.com/in/aleksandrkross/)
 
 # Skills
 
@@ -63,8 +53,9 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 - English ![Intermediate level](images/middle.png)
 - Russian ![Native level](images/native.png)
 
+# CV
 
-[**Personal website**](https://mathewtroy.github.io/react_cv/)
+[![CV](images/made_with/m_vscode.png)](https://mathewtroy.github.io/react_cv/) [![React](images/skills/react.png)](https://mathewtroy.github.io/react_cv/)
 
 <!--
 **mathewtroy/mathewtroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
