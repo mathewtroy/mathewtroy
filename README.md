@@ -1,14 +1,25 @@
 ### Hi there 👋
 
-<!--
+My name is Aleksandr.
+
+I am currently studying Computer Science at the Czech Technical University in Prague, with a focus on Software Engineering. 
+
+I have a keen interest in both frontend and backend development, actively engaging in learning and exploring the comprehensive field of software development.
+
+# Social
+[![GitHub](images/social/github.png)](https://github.com/mathewtroy/)
+[![GitLab](images/social/gitlab.png)](https://gitlab.fel.cvut.cz/krossale/)
+[![LinkedIn](images/social/linkedin.png)](https://www.linkedin.com/in/aleksandrkross/)
+
+
 # Projects
 
-## September 2022 - Present:
+<details><summary> Show more </summary>
 
 - **Website with travel packages:**
   | HTML, CSS, JavaScript, MySQL, PHP.
   - Designed and built a full-stack travel package website, implementing security measures against XSS, \
-    password hashing, server and client-side validation during login.
+    password hashing, server, and client-side validation during login.
 
 - **EShop testing:**
   | Java, ACTS, PCTgen.
@@ -22,19 +33,14 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 
 - **Database Application:**
   | Java Spring, PostgreSQL.
-  - Created a CRUD system for Travel Agency.
+  - Created a CRUD system for a Travel Agency.
 
 - **Project of a mobile bank:**
   | Enterprise Architect.
-  - Produced documentation for a mobile bank project using Business Domain Model,\
+  - Produced documentation for a mobile bank project using the Business Domain Model,\
     Business Process, Deployment, UML, and Use Case diagrams.
--->
 
-# Social
-
-[![GitHub](images/social/github.png)](https://github.com/mathewtroy/)
-[![GitLab](images/social/gitlab.png)](https://gitlab.fel.cvut.cz/krossale/)
-[![LinkedIn](images/social/linkedin.png)](https://www.linkedin.com/in/aleksandrkross/)
+</details>
 
 # Skills
 ![Java](images/skills/java.png)
@@ -42,6 +48,7 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 ![React](images/skills/react.png)
 ![PHP](images/skills/php.png)
 ![HTML](images/skills/html5.png)
+![CSS](images/skills/css3.png)
 ![C++](images/skills/c++.png)
 ![Git](images/skills/git.png)
 ![PostgreSQL](images/skills/postgresql.png)
