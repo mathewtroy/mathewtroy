@@ -47,12 +47,14 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 ![PostgreSQL](images/skills/postgresql.png)
 ![Linux](images/os/linux.png)
 
+
+<!--
 # Languages
 ![Czech:](images/languages/cz.png) &nbsp; ![Czech proficiency](images/level/b2.png)\
 ![English](images/languages/uk.png) &nbsp; ![English proficiency](images/level/b2.png)\
 ![Russian](images/languages/ru.png) &nbsp; ![Russian proficiency](images/level/c2.png)\
 ![German](images/languages/de.png) &nbsp; ![German proficiency](images/level/a2.png)
-
+-->
 
 
 # CV
