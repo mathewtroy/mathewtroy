@@ -58,7 +58,7 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 
 
 # CV
-[![CV](images/made_with/m_vscode.png)](https://mathewtroy.github.io/react_cv/) [![React](images/skills/react.png)](https://mathewtroy.github.io/react_cv/)
+[**Look at CV**](https://mathewtroy.github.io/react_cv/)
 
 
 <!--
