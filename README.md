@@ -1,5 +1,70 @@
 ### Hi there 👋
 
+# Projects
+
+## September 2022 - Present:
+
+- **Website with travel packages:**
+  | HTML, CSS, JavaScript, MySQL, PHP.
+  - Designed and built a full-stack travel package website, implementing security measures against XSS, \
+    password hashing, server and client-side validation during login.
+
+- **EShop testing:**
+  | Java, ACTS, PCTgen.
+  - Performed Selenium-based website testing.
+
+- **Role-playing game 2D game:**
+  | Java, Swing, Maven.
+  - Developed a 2D role-playing game.
+  - Implemented enemy characters with multi-threaded programming, including animations, actions,\
+and AI behavior such as walking, attacking, and pursuing the main hero.
+
+- **Database Application:**
+  | Java Spring, PostgreSQL.
+  - Created a CRUD system for Travel Agency.
+
+- **Project of a mobile bank:**
+  | Enterprise Architect.
+  - Produced documentation for a mobile bank project using Business Domain Model,\
+    Business Process, Deployment, UML, and Use Case diagrams.
+
+# Education
+
+## Bachelor's Degree, Czech Technical University, Prague
+  ### September 2021 - Present
+  - Faculty of Electrical Engineering.
+  - Specialization: Software Engineering and Technology.
+
+## Czech Language Course, Charles University, Prague
+ ### September 2020 - June 2021
+  - Passed a B2 CEFR Czech language exam with a score of 83%.
+
+# Links
+
+- [GitHub](https://github.com/mathewtroy/)
+- [GitLab](https://gitlab.fel.cvut.cz/krossale/)
+- [LinkedIn](https://www.linkedin.com/in/aleksandrkross/)
+
+# Skills
+
+- Java
+- JavaScript
+- React
+- PHP
+- HTML
+- Git
+- PostgreSQL
+- Linux
+- Enterprise Architect
+
+# Languages
+
+- Czech ![Intermediate level](images/middle.png)
+- English ![Intermediate level](images/middle.png)
+- Russian ![Native level](images/native.png)
+
+
+[**Personal website**](https://mathewtroy.github.io/react_cv/)
 
 <!--
 **mathewtroy/mathewtroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +80,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[**Personal website**](https://mathewtroy.github.io/react_cv/)
 
