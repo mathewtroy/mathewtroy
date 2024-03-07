@@ -41,21 +41,21 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 
 # Links
 
-- [GitHub](https://github.com/mathewtroy/)
-- [GitLab](https://gitlab.fel.cvut.cz/krossale/)
-- [LinkedIn](https://www.linkedin.com/in/aleksandrkross/)
+[![GitHub](images/social/github.png)](https://github.com/mathewtroy/)
+[![GitHub](images/social/gitlab.png)](https://gitlab.fel.cvut.cz/krossale/)
+[![GitHub](images/social/linkedin.png)](https://www.linkedin.com/in/aleksandrkross/)
 
 # Skills
 
-- Java
-- JavaScript
-- React
-- PHP
-- HTML
-- Git
-- PostgreSQL
-- Linux
-- Enterprise Architect
+![Java](images/skills/java.png)
+![JavaScript](images/skills/js-black.png)
+![React](images/skills/react.png)
+![PHP](images/skills/php.png)
+![HTML](images/skills/html5.png)
+![C++](images/skills/c++.png)
+![Git](images/skills/git.png)
+![PostgreSQL](images/skills/postgresql.png)
+![Linux](images/os/linux.png)
 
 # Languages
 
