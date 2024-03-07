@@ -56,6 +56,7 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 ![German](images/languages/de.png) &nbsp; ![German proficiency](images/level/a2.png)
 -->
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewtroy&show_icons=true&hide=contribs,prs&theme=tokyonight&langs_count=6&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 # CV
 [**Look at CV**](https://mathewtroy.github.io/react_cv/)
