@@ -16,6 +16,14 @@ I have a keen interest in both frontend and backend development, actively engagi
 
 <details><summary> Show more </summary>
 
+- **React Application Whiteboard:**
+  | JavaScript, React, HTML, CSS.
+  - The "Whiteboard React" project is a web application developed using the React library. The primary goal of the application is to create an interactive drawing board with various functionalities.
+
+- **Private Library:**
+  | Java Spring Boot, PostgreSQL.
+  - The "Private Library" app employs Spring, JPA, and REST in a Maven project, with crucial dependencies like Spring Boot Starter Web and Data JPA.
+
 - **Website with travel packages:**
   | HTML, CSS, JavaScript, MySQL, PHP.
   - Designed and built a full-stack travel package website, implementing security measures against XSS, \
@@ -34,6 +42,10 @@ and AI behavior such as walking, attacking, and pursuing the main hero.
 - **Database Application:**
   | Java Spring, PostgreSQL.
   - Created a CRUD system for a Travel Agency.
+
+- **String-searching algorithm:**
+  | C++, Cmake.
+  - The program is designed for substring search within a string using various algorithms. Supported algorithms: Boyer-Moore, Knuth-Morris-Pratt, Rabin-Karp.
 
 - **Project of a mobile bank:**
   | Enterprise Architect.
